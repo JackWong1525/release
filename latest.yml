@@ -1,8 +1,8 @@
-version: 1.0.25
+version: 1.0.27
 files:
-  - url: GS Printer Setup 1.0.25.exe
-    sha512: htqx+hRNWZpQiSltPv65pTywGDZUgAIGbRyKBvbxxKmbCiIW51GdEbKpBrGPHnQdN5u9P6jm5fYntyeUpNSD+Q==
-    size: 76878387
-path: GS Printer Setup 1.0.25.exe
-sha512: htqx+hRNWZpQiSltPv65pTywGDZUgAIGbRyKBvbxxKmbCiIW51GdEbKpBrGPHnQdN5u9P6jm5fYntyeUpNSD+Q==
-releaseDate: '2025-11-19T02:58:50.622Z'
+  - url: GS-Printer-Setup-1.0.27.exe
+    sha512: K5Q756TmJUVEUSQzCvJ76q/RH/UBSjSobdHZp2R/wAFR1a8wOAA9bnAt5Ir9ZC4e6PwGzsz8boCCDxrT6o4QuA==
+    size: 76878686
+path: GS-Printer-Setup-1.0.27.exe
+sha512: K5Q756TmJUVEUSQzCvJ76q/RH/UBSjSobdHZp2R/wAFR1a8wOAA9bnAt5Ir9ZC4e6PwGzsz8boCCDxrT6o4QuA==
+releaseDate: '2025-11-19T05:33:30.690Z'
